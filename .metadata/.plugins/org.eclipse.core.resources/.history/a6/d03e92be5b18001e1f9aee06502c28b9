@@ -1,0 +1,5 @@
+package br.com.devsuperior.workshopmongo.config;
+
+public class TestConfig {
+
+}
